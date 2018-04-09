@@ -1,0 +1,703 @@
+C:\Users\gdk17\PycharmProjects\Lab1_Dop\venv\Scripts\python.exe C:/Users/gdk17/PycharmProjects/Lab1_Dop/main.py
+
+
+iteration: 1
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  19
+hi^2  34.96000000000001
+
+
+iteration: 2
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  19
+hi^2  33.2904347826087
+
+
+iteration: 3
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  19
+hi^2  34.96000000000001
+
+
+iteration: 4
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  19
+hi^2  33.2904347826087
+
+
+iteration: 5
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  20
+hi^2  35.1304347826087
+
+
+iteration: 6
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  20
+hi^2  36.80000000000001
+
+
+iteration: 7
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  20
+hi^2  35.1304347826087
+
+
+iteration: 8
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  20
+hi^2  36.80000000000001
+
+
+iteration: 9
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  20
+hi^2  35.1304347826087
+
+
+iteration: 10
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  21
+hi^2  36.970434782608706
+
+
+iteration: 11
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  21
+hi^2  36.970434782608706
+
+
+iteration: 12
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  21
+hi^2  36.970434782608706
+
+
+iteration: 13
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  21
+hi^2  36.970434782608706
+
+
+iteration: 14
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  21
+hi^2  36.970434782608706
+
+
+iteration: 15
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  22
+hi^2  38.81043478260871
+
+
+iteration: 16
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  22
+hi^2  40.48000000000002
+
+
+iteration: 17
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  22
+hi^2  40.48000000000002
+
+
+iteration: 18
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  22
+hi^2  40.48000000000002
+
+
+iteration: 19
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  22
+hi^2  40.48000000000002
+
+
+iteration: 20
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  23
+hi^2  42.32000000000002
+
+
+iteration: 21
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  23
+hi^2  40.65043478260871
+
+
+iteration: 22
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  23
+hi^2  42.32000000000002
+
+
+iteration: 23
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  23
+hi^2  38.980869565217404
+
+
+iteration: 24
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  23
+hi^2  42.32000000000002
+
+
+iteration: 25
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  24
+hi^2  44.160000000000025
+
+
+iteration: 26
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  24
+hi^2  40.82086956521741
+
+
+iteration: 27
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  24
+hi^2  42.490434782608716
+
+
+iteration: 28
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  24
+hi^2  44.160000000000025
+
+
+iteration: 29
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  24
+hi^2  44.160000000000025
+
+
+iteration: 30
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  25
+hi^2  46.00000000000003
+
+
+iteration: 31
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  25
+hi^2  44.33043478260872
+
+
+iteration: 32
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  25
+hi^2  42.66086956521741
+
+
+iteration: 33
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  25
+hi^2  42.66086956521741
+
+
+iteration: 34
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  25
+hi^2  46.00000000000003
+
+
+iteration: 35
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  26
+hi^2  47.84000000000003
+
+
+iteration: 36
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  26
+hi^2  47.84000000000003
+
+
+iteration: 37
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  26
+hi^2  46.17043478260872
+
+
+iteration: 38
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  26
+hi^2  42.831304347826105
+
+
+iteration: 39
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  26
+hi^2  44.500869565217414
+
+
+iteration: 40
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  27
+hi^2  49.680000000000035
+
+
+iteration: 41
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  27
+hi^2  48.010434782608726
+
+
+iteration: 42
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  27
+hi^2  46.34086956521742
+
+
+iteration: 43
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  27
+hi^2  46.34086956521742
+
+
+iteration: 44
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  27
+hi^2  49.680000000000035
+
+
+iteration: 45
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  28
+hi^2  51.52000000000004
+
+
+iteration: 46
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  28
+hi^2  49.85043478260873
+
+
+iteration: 47
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  28
+hi^2  51.52000000000004
+
+
+iteration: 48
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  28
+hi^2  51.52000000000004
+
+
+iteration: 49
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  28
+hi^2  48.18086956521742
+
+
+iteration: 50
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  29
+hi^2  51.69043478260873
+
+
+iteration: 51
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  29
+hi^2  53.36000000000004
+
+
+iteration: 52
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  29
+hi^2  50.020869565217424
+
+
+iteration: 53
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  29
+hi^2  53.36000000000004
+
+
+iteration: 54
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  29
+hi^2  53.36000000000004
+
+
+iteration: 55
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  30
+hi^2  53.53043478260874
+
+
+iteration: 56
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  30
+hi^2  53.53043478260874
+
+
+iteration: 57
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  30
+hi^2  51.86086956521743
+
+
+iteration: 58
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  30
+hi^2  51.86086956521743
+
+
+iteration: 59
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  30
+hi^2  55.200000000000045
+
+
+iteration: 60
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  31
+hi^2  57.04000000000005
+
+
+iteration: 61
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  31
+hi^2  55.37043478260874
+
+
+iteration: 62
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  31
+hi^2  53.70086956521743
+
+
+iteration: 63
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  31
+hi^2  57.04000000000005
+
+
+iteration: 64
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  31
+hi^2  57.04000000000005
+
+
+iteration: 65
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  32
+hi^2  55.540869565217434
+
+
+iteration: 66
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  32
+hi^2  58.88000000000005
+
+
+iteration: 67
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  32
+hi^2  58.88000000000005
+
+
+iteration: 68
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  32
+hi^2  57.21043478260874
+
+
+iteration: 69
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  32
+hi^2  58.88000000000005
+
+
+iteration: 70
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  33
+hi^2  60.720000000000056
+
+
+iteration: 71
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  33
+hi^2  59.05043478260875
+
+
+iteration: 72
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  33
+hi^2  59.05043478260875
+
+
+iteration: 73
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  33
+hi^2  60.720000000000056
+
+
+iteration: 74
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  33
+hi^2  59.05043478260875
+
+
+iteration: 75
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  34
+hi^2  62.56000000000006
+
+
+iteration: 76
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  34
+hi^2  62.56000000000006
+
+
+iteration: 77
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  34
+hi^2  62.56000000000006
+
+
+iteration: 78
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  34
+hi^2  62.56000000000006
+
+
+iteration: 79
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  34
+hi^2  62.56000000000006
+
+
+iteration: 80
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  35
+hi^2  64.40000000000006
+
+
+iteration: 81
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  35
+hi^2  64.40000000000006
+
+
+iteration: 82
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  35
+hi^2  64.40000000000006
+
+
+iteration: 83
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  35
+hi^2  62.730434782608754
+
+
+iteration: 84
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  35
+hi^2  61.060869565217445
+
+
+iteration: 85
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  36
+hi^2  64.57043478260876
+
+
+iteration: 86
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  36
+hi^2  66.24000000000007
+
+
+iteration: 87
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  36
+hi^2  59.56173913043483
+
+
+iteration: 88
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  36
+hi^2  66.24000000000007
+
+
+iteration: 89
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  36
+hi^2  64.57043478260876
+
+
+iteration: 90
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  37
+hi^2  64.74086956521745
+
+
+iteration: 91
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  37
+hi^2  68.08000000000007
+
+
+iteration: 92
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  37
+hi^2  63.07130434782614
+
+
+iteration: 93
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  37
+hi^2  68.08000000000007
+
+
+iteration: 94
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  37
+hi^2  68.08000000000007
+
+
+iteration: 95
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  38
+hi^2  64.91130434782615
+
+
+iteration: 96
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  38
+hi^2  68.25043478260876
+
+
+iteration: 97
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  38
+hi^2  66.58086956521745
+
+
+iteration: 98
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  38
+hi^2  68.25043478260876
+
+
+iteration: 99
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  38
+hi^2  68.25043478260876
+
+
+iteration: 100
+miu  1.4375
+deviation^2 1.123046875
+degree of freedom:  39
+hi^2  71.76000000000008
+
+Process finished with exit code 0
